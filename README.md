@@ -2,7 +2,7 @@
 
 - 🔥 No momento estou focando estudos na área de <b>Flutter / Dart</b>
 
-- 🎓 Graduado em Sistemas de Informação na Universidade Salvador
+- 🎓 Graduado em Sistemas de Informação pela UNIFACS (Universidade Salvador)
 
 ## 🛠 &nbsp;Tech Stack
 
