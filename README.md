@@ -1,6 +1,6 @@
 <h2 align="left">Olá, sou o André Simões</h2>
 
-- 🔥 No momento estou focando estudos na área de <b>Flutter / Dart</b>
+- 🔥 No momento focando estudos na área de <b>Flutter / Dart</b>
 
 - 🎓 Graduado em Sistemas de Informação pela UNIFACS (Universidade Salvador)
 
