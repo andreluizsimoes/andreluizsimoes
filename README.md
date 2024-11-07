@@ -3,6 +3,8 @@
 - 🔥 Currently working with <b>Flutter / Dart</b>
 
 - 🎓 Graduated in Information Systems from UNIFACS (Salvador University)
+  
+- 🧑‍🎓 Pursuing a Postgraduate Degree in Mobile Development with Emphasis on Flutter at FETES (FETES - Faculty of Education and Technology of Espírito Santo)
 
 ## 🛠 &nbsp;Tech Stack
 
