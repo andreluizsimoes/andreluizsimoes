@@ -4,7 +4,9 @@
 
 - 🎓 Graduated in Information Systems from UNIFACS (Salvador University)
   
-- 🧑‍🎓 Pursuing a Postgraduate Degree in Mobile Development with Emphasis on Flutter at FETES (FETES - Faculty of Education and Technology of Espírito Santo)
+- 🎓 Postgraduated in Mobile Development with Emphasis on Flutter at FETES (FETES - Faculty of Education and Technology of Espírito Santo)
+
+- 🧑‍🎓 Pursuing a Postgraduate Degree in Artificial Inteligence at UNIFACS (Salvador University)
 
 ## 🛠 &nbsp;Tech Stack
 
